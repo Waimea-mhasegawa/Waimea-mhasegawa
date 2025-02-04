@@ -1,5 +1,11 @@
 ## Hi there 👋
-
+# Mirai Hasegawa
+I am a student at Waimea College
+## Things I like
+- Walking
+- Guitars
+- Animals
+- Music
 <!--
 **Waimea-mhasegawa/Waimea-mhasegawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
